@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Sorties PyInstaller
+build/
+dist/
+*.spec

@@ -1,0 +1,11 @@
+discord.py[voice]
+numpy
+psutil
+pycaw
+comtypes
+customtkinter
+pystray
+pillow
+keyring
+python-dotenv
+pyinstaller
